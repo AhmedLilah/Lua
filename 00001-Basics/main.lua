@@ -9,5 +9,3 @@
 -- print("Enter a number: ")
 -- a = io.read("*n")
 -- print(fac(a))
-
-print(4 and 5)
